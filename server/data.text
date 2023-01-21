@@ -1,0 +1,26 @@
+db.answers.insertMany([
+    {
+        "id": 1,
+        "answer": "cars[1]"
+    },
+    {
+        "id": 2,
+        "answer": "onclick"
+    },
+    {
+        "id": 3,
+        "answer": "myFunction()":
+    },
+      {
+        "id": 4,
+        "answer": "of fruits":
+    },
+    {
+        "id": 5,
+        "answer": "person.firstName":
+    },
+    {
+        "id": 6,
+        "answer": "toUpperCase()":
+    }
+])
